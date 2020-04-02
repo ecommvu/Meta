@@ -1,0 +1,24 @@
+{
+    "name": "Dejavuejs/meta",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dejavuejs"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dejavuejs\\Meta\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dejavuejs\\Meta\\MetaServiceProvider"
+            ],
+            "aliases": {}
+        }
+    },
+    "minimum-stability": "dev"
+}
