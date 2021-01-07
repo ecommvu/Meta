@@ -1,3 +1,5 @@
+[![Github All Releases](https://img.shields.io/github/downloads/ecommvu/product-email/total.svg)]()
+
 **Steps to install:**
 
 1. Inside packages directory make another directory 'Ecommvu'.
