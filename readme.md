@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/ecommvu/product-email/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/ecommvu/Meta/total.svg)]()
 
 **Steps to install:**
 
